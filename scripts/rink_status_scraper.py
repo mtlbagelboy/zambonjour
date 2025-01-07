@@ -4,15 +4,139 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import time
 from typing import Dict, List, Tuple
+import os
 
 class RinkScraper:
     def __init__(self):
         self.OSM_BASE_URL = "https://nominatim.openstreetmap.org/search"
+        self.GOOGLE_MAPS_URL = "https://maps.googleapis.com/maps/api/geocode/json"
         self.MONTREAL_RINKS_URL = "https://montreal2.qc.ca/ski/en/conditions_patinoires_arr.php"
+        self.GOOGLE_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')  # Get from environment variable
+        self.existing_addresses = self.load_existing_addresses()
         
+    def load_existing_addresses(self) -> dict:
+        """Load existing addresses from XML file if it exists."""
+        addresses = {}
+        if os.path.exists("montreal_rinks.xml"):
+            print("Loading existing addresses from montreal_rinks.xml...")
+            try:
+                tree = ET.parse("montreal_rinks.xml")
+                root = tree.getroot()
+                for borough in root.findall(".//borough"):
+                    for rink in borough.findall(".//rink"):
+                        name = rink.find("name").text
+                        location = rink.find("location")
+                        if location is not None:
+                            address = location.find("address").text
+                            coords = location.find("coordinates")
+                            if address and coords.get("lat") and coords.get("lon"):
+                                addresses[name] = {
+                                    "display_name": address,
+                                    "lat": coords.get("lat"),
+                                    "lon": coords.get("lon"),
+                                    "borough": borough.get("name")
+                                }
+                print(f"Loaded {len(addresses)} existing addresses")
+            except Exception as e:
+                print(f"Error loading existing addresses: {e}")
+        return addresses
+
+    def query_google_maps(self, rink_name: str, borough: str) -> Dict:
+        """Query Google Maps API for address data."""
+        if not self.GOOGLE_API_KEY:
+            print("    No Google Maps API key found. Skipping Google Maps lookup.")
+            return {"display_name": "", "lat": "", "lon": "", "borough": ""}
+
+        # Try different query formats
+        queries = [
+            f"Parc {rink_name}, {borough}, Montreal, QC",
+            f"{rink_name}, {borough}, Montreal, QC",  # Try without "Parc"
+            f"{rink_name}, Montreal, QC"  # Try without borough
+        ]
+
+        for query in queries:
+            params = {
+                "address": query,
+                "key": self.GOOGLE_API_KEY
+            }
+
+            try:
+                print(f"    Trying Google Maps with: {query}")
+                response = requests.get(self.GOOGLE_MAPS_URL, params=params)
+                response.raise_for_status()
+                results = response.json()
+                
+                # Debug: print raw response
+                print(f"    Google API Response: {results}")
+
+                if results.get("status") == "REQUEST_DENIED":
+                    print(f"    Google API Error: {results.get('error_message', 'Unknown error')}")
+                    return {"display_name": "", "lat": "", "lon": "", "borough": ""}
+
+                if results.get("results"):
+                    result = results["results"][0]
+                    location = result["geometry"]["location"]
+                    address_data = {
+                        "display_name": result["formatted_address"],
+                        "lat": str(location["lat"]),
+                        "lon": str(location["lng"]),
+                        "borough": next((
+                            component["long_name"]
+                            for component in result["address_components"]
+                            if "sublocality" in component["types"]
+                        ), "")
+                    }
+                    print(f"    Found via Google Maps: {address_data['display_name']}")
+                    return address_data
+
+            except Exception as e:
+                print(f"    Error querying Google Maps for {rink_name}: {str(e)}")
+
+        print(f"    No results found in Google Maps for {rink_name} after trying all query formats")
+        return {"display_name": "", "lat": "", "lon": "", "borough": ""}
+
     def get_address(self, rink_name: str, borough: str) -> Dict:
-        """Get address details from OpenStreetMap."""
-        query = f"{rink_name} park, {borough}, Montreal, QC"
+        """Get address details from OpenStreetMap or cached data."""
+        # Check if we already have this rink's address
+        if rink_name in self.existing_addresses:
+            print(f"    Using cached address for: {rink_name}")
+            return self.existing_addresses[rink_name]
+
+        # Try OSM first
+        replacements = {
+            # Basic French accents
+            'Ã©': 'é',
+            'Ã¨': 'è',
+            'Ã¢': 'â',
+            'Ã®': 'î',
+            'Ã´': 'ô',
+            'Ã»': 'û',
+            'Ã«': 'ë',
+            'Ã§': 'ç',
+            # Alternative encodings
+            'é´': 'é',
+            'é¢': 'â',
+            'é©': 'é',
+            'é¨': 'è',
+            'é®': 'î',
+            'é´': 'ô',
+            'é«': 'ë',
+            'é§': 'ç'
+        }
+        
+        # Clean up the names before querying
+        for wrong, right in replacements.items():
+            rink_name = rink_name.replace(wrong, right)
+            borough = borough.replace(wrong, right)
+        
+        # Remove duplicate "park" or "parc" mentions
+        rink_name = rink_name.replace('Parc ', '')
+        query = f"Parc {rink_name}, {borough}, Montreal, QC"
+        
+        print(f"    Cleaned rink name: {rink_name}")
+        print(f"    Cleaned borough: {borough}")
+        print(f"    Final query: {query}")
+        
         params = {
             "q": query,
             "format": "json",
@@ -40,14 +164,19 @@ class RinkScraper:
                 print(f"    Found: {address_data['display_name']}")
                 print(f"    Coordinates: {address_data['lat']}, {address_data['lon']}")
                 print(f"    OSM Borough: {address_data['borough']}")
+                
+                # Cache the result for future use
+                self.existing_addresses[rink_name] = address_data
                 return address_data
             else:
-                print(f"    No results found for {rink_name}")
+                print(f"    No results found in OSM for {rink_name}")
+                # Try Google Maps as fallback
+                return self.query_google_maps(rink_name, borough)
                 
         except Exception as e:
             print(f"    Error getting address for {rink_name}: {str(e)}")
-            
-        return {"display_name": "", "lat": "", "lon": "", "borough": ""}
+            # Try Google Maps as fallback
+            return self.query_google_maps(rink_name, borough)
 
     def parse_rink_row(self, row: BeautifulSoup) -> Dict:
         """Parse a single rink row from the table."""
@@ -117,16 +246,17 @@ class RinkScraper:
         """Main method to scrape rink data and generate XML."""
         print("Fetching rink data from Montreal website...")
         response = requests.get(self.MONTREAL_RINKS_URL)
+        response.encoding = 'utf-8'
         soup = BeautifulSoup(response.text, 'html.parser')
         
         rinks_data = []
         current_borough = None
         current_rinks = []
+        rinks_needing_addresses = []  # Track rinks that need OSM lookup
         
-        # Find all borough headers and their associated tables
+        # First pass: collect all rinks and identify which need addresses
         for element in soup.find_all(['h2', 'table']):
             if element.name == 'h2':
-                # If we were processing a borough, save its data
                 if current_borough:
                     print(f"Finished processing borough: {current_borough}")
                     rinks_data.append({
@@ -139,17 +269,19 @@ class RinkScraper:
                 current_rinks = []
                 
             elif element.name == 'table' and current_borough:
-                # Process each row in the table
                 for row in element.find_all('tr'):
                     rink_data = self.parse_rink_row(row)
                     if rink_data:
-                        print(f"  Looking up address for: {rink_data['name']}")
-                        # Get address from OSM
-                        address = self.get_address(rink_data["name"], current_borough)
-                        rink_data["address"] = address
+                        if rink_data["name"] not in self.existing_addresses:
+                            rinks_needing_addresses.append((rink_data["name"], current_borough))
+                            print(f"  Will need to lookup address for: {rink_data['name']}")
+                        else:
+                            print(f"  Using cached address for: {rink_data['name']}")
+                        
+                        # Use existing address or empty placeholder
+                        rink_data["address"] = self.existing_addresses.get(rink_data["name"], 
+                            {"display_name": "", "lat": "", "lon": "", "borough": ""})
                         current_rinks.append(rink_data)
-                        # Be nice to OSM servers
-                        time.sleep(1)
         
         # Don't forget to add the last borough
         if current_borough:
@@ -157,6 +289,19 @@ class RinkScraper:
                 "borough": current_borough,
                 "rinks": current_rinks
             })
+        
+        # Second pass: lookup addresses only for rinks that need them
+        print(f"\nNeed to lookup {len(rinks_needing_addresses)} addresses...")
+        for rink_name, borough in rinks_needing_addresses:
+            print(f"\nLooking up address for: {rink_name}")
+            address = self.get_address(rink_name, borough)
+            
+            # Update the address in our data structure
+            for borough_data in rinks_data:
+                for rink in borough_data["rinks"]:
+                    if rink["name"] == rink_name:
+                        rink["address"] = address
+            time.sleep(1)  # Only sleep when we actually query OSM
         
         return self.create_xml(rinks_data)
 
@@ -166,4 +311,4 @@ if __name__ == "__main__":
     
     # Save to file
     with open("montreal_rinks.xml", "w", encoding="utf-8") as f:
-        f.write(xml_output) 
+        f.write(xml_output)
