@@ -1,0 +1,3331 @@
+<?xml version="1.0" ?>
+<rinks updated="2025-01-06 21:11:17">
+  <borough name="Ahuntsic - Cartierville">
+    <rink type="Rink with boards" code="TSR">
+      <name>Berthe-Louard</name>
+      <location>
+        <address>Parc Berthe-Louard, 9355, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2M 2A7, Canada</address>
+        <coordinates lat="45.5591376" lon="-73.64229578738889"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Berthe-Louard</name>
+      <location>
+        <address>Parc Berthe-Louard, 9355, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2M 2A7, Canada</address>
+        <coordinates lat="45.5591376" lon="-73.64229578738889"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Camille</name>
+      <location>
+        <address>Parc Camille, Saraguay, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.510321149999996" lon="-73.75265208718402"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>De Bordeaux</name>
+      <location>
+        <address>Parc de Bordeaux, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.541926700000005" lon="-73.69980158338915"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>De Louisbourg</name>
+      <location>
+        <address>Parc de Louisbourg, 5455, Cartierville, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4J 1K8, Canada</address>
+        <coordinates lat="45.5287607" lon="-73.70790055758717"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>De Louisbourg</name>
+      <location>
+        <address>Parc de Louisbourg, 5455, Cartierville, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4J 1K8, Canada</address>
+        <coordinates lat="45.5287607" lon="-73.70790055758717"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire Bleu blanc bouge" code="TSR">
+      <name>De Mésy</name>
+      <location>
+        <address>Parc de Mésy, Cartierville, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.529578799999996" lon="-73.71690145182785"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Des Hirondelles</name>
+      <location>
+        <address>Parc des Hirondelles, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5757789" lon="-73.64289563591714"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Henri-Julien</name>
+      <location>
+        <address>Parc Henri-Julien, 9300, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2M 1P1, Canada</address>
+        <coordinates lat="45.5474718" lon="-73.65010625261881"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Nicolas-Viel</name>
+      <location>
+        <address>Parc Nicolas-Viel, 95, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3L 2R1, Canada</address>
+        <coordinates lat="45.55106645" lon="-73.67704101468024"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Saint-Alphonse</name>
+      <location>
+        <address>Parc Saint-Alphonse, 8888, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2M 1X4, Canada</address>
+        <coordinates lat="45.54879115" lon="-73.63913715376502"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-Alphonse</name>
+      <location>
+        <address>Parc Saint-Alphonse, 8888, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2M 1X4, Canada</address>
+        <coordinates lat="45.54879115" lon="-73.63913715376502"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-André-Apôtre</name>
+      <location>
+        <address>Parc Saint-André-Apôtre, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.54657735" lon="-73.67210507210947"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Saint-André-Apôtre</name>
+      <location>
+        <address>Parc Saint-André-Apôtre, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.54657735" lon="-73.67210507210947"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-Paul-de-la-Croix</name>
+      <location>
+        <address>Parc Saint-Paul-de-la-Croix, 9900, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2C 2A2, Canada</address>
+        <coordinates lat="45.560509350000004" lon="-73.65234226829978"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Saint-Paul-de-la-Croix</name>
+      <location>
+        <address>Parc Saint-Paul-de-la-Croix, 9900, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2C 2A2, Canada</address>
+        <coordinates lat="45.560509350000004" lon="-73.65234226829978"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-Simon-Apôtre</name>
+      <location>
+        <address>Parc Saint-Simon-Apôtre, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.540557449999994" lon="-73.64840347615855"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Sault-au-Récollet</name>
+      <location>
+        <address>Parc Sault-au-Recollet, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.57048835" lon="-73.65321931059893"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Sault-au-Récollet</name>
+      <location>
+        <address>Parc Sault-au-Recollet, Ahuntsic, Ahuntsic-Cartierville, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.57048835" lon="-73.65321931059893"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Anjou">
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc Des Roseraies</name>
+      <location>
+        <address>Parc des Roseraies, 7070, Anjou, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1M 1B2, Canada</address>
+        <coordinates lat="45.59336165" lon="-73.55479333341543"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Sentier glacé" code="LR">
+      <name>Parc Des Roseraies</name>
+      <location>
+        <address>Parc des Roseraies, 7070, Anjou, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1M 1B2, Canada</address>
+        <coordinates lat="45.59336165" lon="-73.55479333341543"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Anneau de glace" code="OSR">
+      <name>Parc Lucie-Bruneau</name>
+      <location>
+        <address>Parc Lucie-Bruneau, 7051, Anjou, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1J 2X8, Canada</address>
+        <coordinates lat="45.60290725" lon="-73.58356811355469"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc Lucie-Bruneau</name>
+      <location>
+        <address>Parc Lucie-Bruneau, 7051, Anjou, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1J 2X8, Canada</address>
+        <coordinates lat="45.60290725" lon="-73.58356811355469"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc Roger Rousseau</name>
+      <location>
+        <address>Parc Roger-Rousseau, 7501, Anjou, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1K 2P3, Canada</address>
+        <coordinates lat="45.616631" lon="-73.5500385973416"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Anneau de glace" code="OSR">
+      <name>Parc Talcy</name>
+      <location>
+        <address>Parc de Talcy, Anjou, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.60720515" lon="-73.55992637765809"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Côte-des-Neiges - Notre-Dame-de-Grâce">
+    <rink type="Patinoire Bleu-Blanc-Bouge" code="TSR">
+      <name>Confédération</name>
+      <location>
+        <address>Parc de la Confédération, 5200, Notre-Dame-de-Grâce, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4V 2W7, Canada</address>
+        <coordinates lat="45.4719793" lon="-73.63855658977295"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Georges-Saint-Pierre</name>
+      <location>
+        <address>Parc Georges-Saint-Pierre, 999, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4A 2X4, Canada</address>
+        <coordinates lat="45.4686638" lon="-73.60753170608498"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Georges-Saint-Pierre</name>
+      <location>
+        <address>Parc Georges-Saint-Pierre, 999, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4A 2X4, Canada</address>
+        <coordinates lat="45.4686638" lon="-73.60753170608498"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Jean-Brillant</name>
+      <location>
+        <address>Parc Jean-Brillant, Côte-des-Neiges, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.49702655" lon="-73.61975239769866"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>MacDonald</name>
+      <location>
+        <address>Parc MacDonald, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3X 2S7, Canada</address>
+        <coordinates lat="45.48373785" lon="-73.63590161769139"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>MacDonald</name>
+      <location>
+        <address>Parc MacDonald, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3X 2S7, Canada</address>
+        <coordinates lat="45.48373785" lon="-73.63590161769139"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Mackenzie-King</name>
+      <location>
+        <address>Parc Mackenzie-King, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4899274" lon="-73.63370439514267"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes" code="TSR">
+      <name>Mackenzie-King</name>
+      <location>
+        <address>Parc Mackenzie-King, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4899274" lon="-73.63370439514267"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Martin-Luther-King</name>
+      <location>
+        <address>Parc Martin-Luther-King, Glenmount, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5037136" lon="-73.63224279775801"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Martin-Luther-King (nord)</name>
+      <location>
+        <address>Martin-Luther-King Park, 3453 Av. Kent, Montréal, QC H3S 2T3, Canada</address>
+        <coordinates lat="45.50524" lon="-73.63150399999999"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Martin-Luther-King (sud)</name>
+      <location>
+        <address>Martin-Luther-King Park, 3453 Av. Kent, Montréal, QC H3S 2T3, Canada</address>
+        <coordinates lat="45.50524" lon="-73.63150399999999"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Notre-Dame-de-Grâce</name>
+      <location>
+        <address>Parc Notre-Dame-de-Grâce, 3500, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4A 1R2, Canada</address>
+        <coordinates lat="45.47281445" lon="-73.61454365294306"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Notre-Dame-de-Grâce</name>
+      <location>
+        <address>Parc Notre-Dame-de-Grâce, 3500, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4A 1R2, Canada</address>
+        <coordinates lat="45.47281445" lon="-73.61454365294306"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes" code="TSR">
+      <name>Trenholme</name>
+      <location>
+        <address>Parc Trenholme, Notre-Dame-de-Grâce, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.46064305" lon="-73.63150238886502"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>William-Bowie</name>
+      <location>
+        <address>Parc William-Bowie, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4579622" lon="-73.64929701737111"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>William-Hurst</name>
+      <location>
+        <address>Parc William-Hurst, Notre-Dame-de-Grâce, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.46987695" lon="-73.63130748690963"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>William-Hurst</name>
+      <location>
+        <address>Parc William-Hurst, Notre-Dame-de-Grâce, Côte-des-Neiges–Notre-Dame-de-Grâce, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.46987695" lon="-73.63130748690963"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="L'Île-Bizard - Sainte-Geneviève">
+    <rink type="Anneau de glace" code="OSR">
+      <name>Parc Eugène-Dostie</name>
+      <location>
+        <address>Parc Eugène-Dostie, Ile-Bizard, L'Île-Bizard–Sainte-Geneviève, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H9C 1G9, Canada</address>
+        <coordinates lat="45.48710215" lon="-73.88383331203177"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Carré de glace" code="OSR">
+      <name>Parc Eugène-Dostie</name>
+      <location>
+        <address>Parc Eugène-Dostie, Ile-Bizard, L'Île-Bizard–Sainte-Geneviève, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H9C 1G9, Canada</address>
+        <coordinates lat="45.48710215" lon="-73.88383331203177"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire # 2" code="TSR">
+      <name>Parc Eugène-Dostie</name>
+      <location>
+        <address>Parc Eugène-Dostie, Ile-Bizard, L'Île-Bizard–Sainte-Geneviève, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H9C 1G9, Canada</address>
+        <coordinates lat="45.48710215" lon="-73.88383331203177"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire Coach Ken" code="TSR">
+      <name>Parc Eugène-Dostie</name>
+      <location>
+        <address>Parc Eugène-Dostie, Ile-Bizard, L'Île-Bizard–Sainte-Geneviève, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H9C 1G9, Canada</address>
+        <coordinates lat="45.48710215" lon="-73.88383331203177"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire # 1" code="TSR">
+      <name>Parc Jonathan-Wilson</name>
+      <location>
+        <address>Parc Jonathan-Wilson, Ile-Bizard, L'Île-Bizard–Sainte-Geneviève, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.50102525" lon="-73.87178780934224"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire # 1" code="TSR">
+      <name>Parc Joseph-Avila-Proulx</name>
+      <location>
+        <address>Parc Joseph-Avila-Proulx, Ile-Bizard, L'Île-Bizard–Sainte-Geneviève, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.496822300000005" lon="-73.88208573250026"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire # 1" code="TSR">
+      <name>Parc Robert-Sauvé</name>
+      <location>
+        <address>Parc Robert-Sauvé, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.48065255" lon="-73.86635306148933"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="LaSalle">
+    <rink type="Patinoire ext avec bandes (BBB)" code="TSR">
+      <name>parc Hayward</name>
+      <location>
+        <address>Hayward Park, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.423303849999996" lon="-73.64794493501374"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire ext. sans bandes" code="OSR">
+      <name>parc Hayward</name>
+      <location>
+        <address>Hayward Park, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.423303849999996" lon="-73.64794493501374"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire ext. avec bandes" code="TSR">
+      <name>parc Lefebvre</name>
+      <location>
+        <address>Parc Lefebvre, 8600, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8N 1N5, Canada</address>
+        <coordinates lat="45.435523849999996" lon="-73.63530110676906"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire ext. avec bandes" code="TSR">
+      <name>parc Raymond</name>
+      <location>
+        <address>Parc Raymond, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4280888" lon="-73.60315574781711"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire ext. avec bandes" code="TSR">
+      <name>parc Riverside</name>
+      <location>
+        <address>Parc Riverside, 625, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8P 2Y9, Canada</address>
+        <coordinates lat="45.42096515" lon="-73.61144614576662"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire ext. avec bandes" code="TSR">
+      <name>parc des Rapides</name>
+      <location>
+        <address>Parc des Rapides, LaSalle, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8P 1X6, Canada</address>
+        <coordinates lat="45.42626635" lon="-73.59580842554598"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Lachine">
+    <rink type="Rink with open skate area" code="OSR">
+      <name>club pêcheurs/chasseurs</name>
+      <location>
+        <address>378 Av. Victoria, Westmount, QC H3Z 1C3, Canada</address>
+        <coordinates lat="45.4785112" lon="-73.60279779999999"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Carignan</name>
+      <location>
+        <address>Parc Carignan, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.443468100000004" lon="-73.70205378767471"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Carignan</name>
+      <location>
+        <address>Parc Carignan, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.443468100000004" lon="-73.70205378767471"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Dixie</name>
+      <location>
+        <address>Parc Dixie, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.44291865" lon="-73.71829907892194"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Duff court</name>
+      <location>
+        <address>Parc-Duff Court, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.446955599999995" lon="-73.68054264133858"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Kirkland</name>
+      <location>
+        <address>Parc Kirkland, Saint-Pierre, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8R 1B1, Canada</address>
+        <coordinates lat="45.445909900000004" lon="-73.6497585105349"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Kirkland</name>
+      <location>
+        <address>Parc Kirkland, Saint-Pierre, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8R 1B1, Canada</address>
+        <coordinates lat="45.445909900000004" lon="-73.6497585105349"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Pat. avec bandes - près 10e Avenue" code="TSR">
+      <name>parc LaSalle</name>
+      <location>
+        <address>Parc LaSalle, 10661, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8S 1W4, Canada</address>
+        <coordinates lat="45.4387902" lon="-73.67506923583719"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Pat. avec bandes - près chalet" code="TSR">
+      <name>parc LaSalle</name>
+      <location>
+        <address>Parc LaSalle, 10661, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8S 1W4, Canada</address>
+        <coordinates lat="45.4387902" lon="-73.67506923583719"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc LaSalle</name>
+      <location>
+        <address>Parc LaSalle, 10661, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H8S 1W4, Canada</address>
+        <coordinates lat="45.4387902" lon="-73.67506923583719"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Rosewood</name>
+      <location>
+        <address>Parc Rosewood, Saint-Pierre, Lachine, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.449726850000005" lon="-73.65229718943583"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Le Plateau-Mont-Royal">
+    <rink type="Patinoire décorative" code="LR">
+      <name>Arena Mont-Royal</name>
+      <location>
+        <address>4365 R. Cartier, Montréal, QC H2H 1Z7, Canada</address>
+        <coordinates lat="45.5333859" lon="-73.5717796"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Baldwin</name>
+      <location>
+        <address>Parc Baldwin, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.53683575" lon="-73.56703748726869"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Baldwin</name>
+      <location>
+        <address>Parc Baldwin, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.53683575" lon="-73.56703748726869"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes" code="TSR">
+      <name>De Gaspé/Bernard</name>
+      <location>
+        <address>Parc De Gaspé, 6655 Av. de Gaspé, Montréal, QC H2S 2Y1, Canada</address>
+        <coordinates lat="45.53319" lon="-73.60904940000002"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>De Lorimier</name>
+      <location>
+        <address>Parc De Lorimier, 5131, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.53751455" lon="-73.58010120996488"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Jeanne-Mance</name>
+      <location>
+        <address>Parc Jeanne-Mance, 4422, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2W 2N4, Canada</address>
+        <coordinates lat="45.51497105" lon="-73.58316875503364"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Jeanne-Mance</name>
+      <location>
+        <address>Parc Jeanne-Mance, 4422, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2W 2N4, Canada</address>
+        <coordinates lat="45.51497105" lon="-73.58316875503364"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Large rink with boards" code="TSR">
+      <name>La Fontaine</name>
+      <location>
+        <address>Parc La Fontaine, 3819, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 3A7, Canada</address>
+        <coordinates lat="45.5262562" lon="-73.56896721877618"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Small rink with boards" code="TSR">
+      <name>La Fontaine</name>
+      <location>
+        <address>Parc La Fontaine, 3819, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 3A7, Canada</address>
+        <coordinates lat="45.5262562" lon="-73.56896721877618"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>La Fontaine</name>
+      <location>
+        <address>Parc La Fontaine, 3819, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2L 3A7, Canada</address>
+        <coordinates lat="45.5262562" lon="-73.56896721877618"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Sir-Wilfrid-Laurier</name>
+      <location>
+        <address>Parc Sir-Wilfrid-Laurier, 1115, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2J 1G8, Canada</address>
+        <coordinates lat="45.53208035" lon="-73.58784818773003"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Sir-Wilfrid-Laurier no 1</name>
+      <location>
+        <address>Sir-Wilfrid-Laurier Park, 5200 Rue de Brébeuf, Montréal, QC H2J 3L8, Canada</address>
+        <coordinates lat="45.5319443" lon="-73.58748469999999"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Sir-Wilfrid-Laurier no 2</name>
+      <location>
+        <address>Sir-Wilfrid-Laurier Park, 5200 Rue de Brébeuf, Montréal, QC H2J 3L8, Canada</address>
+        <coordinates lat="45.5319443" lon="-73.58748469999999"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Le Sud-Ouest">
+    <rink type="Rink with boards" code="TSR">
+      <name>Campbell-Ouest</name>
+      <location>
+        <address>Parc Campbell Ouest, Côte-St-Paul, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.45783995" lon="-73.59062533528017"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Campbell-Ouest</name>
+      <location>
+        <address>Parc Campbell Ouest, Côte-St-Paul, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.45783995" lon="-73.59062533528017"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Carré Hibernia</name>
+      <location>
+        <address>Carré Hibernia, Pointe-Saint-Charles, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.478899999999996" lon="-73.56445332857047"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Carré Hibernia</name>
+      <location>
+        <address>Carré Hibernia, Pointe-Saint-Charles, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.478899999999996" lon="-73.56445332857047"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Gédéon-de-Catalogne</name>
+      <location>
+        <address>Parc Gédéon-de-Catalogne, Saint-Henri, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4C 2C7, Canada</address>
+        <coordinates lat="45.47193205" lon="-73.58314155395453"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Ignace-Bourget</name>
+      <location>
+        <address>Parc Ignace-Bourget, 5925, Ville-Émard, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4E 2V6, Canada</address>
+        <coordinates lat="45.45608015" lon="-73.60553328360147"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Le Ber</name>
+      <location>
+        <address>Parc Le Ber, 202, Pointe-Saint-Charles, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3K 1Z7, Canada</address>
+        <coordinates lat="45.476685149999994" lon="-73.55444120094407"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Le Ber</name>
+      <location>
+        <address>Parc Le Ber, 202, Pointe-Saint-Charles, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3K 1Z7, Canada</address>
+        <coordinates lat="45.476685149999994" lon="-73.55444120094407"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire Décorative" code="LR">
+      <name>Polyvalente Saint-Henri</name>
+      <location>
+        <address>Parc Polyvalente Saint-Henri, Saint-Henri, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4782357" lon="-73.5890976076142"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Polyvalente Saint-Henri</name>
+      <location>
+        <address>Parc Polyvalente Saint-Henri, Saint-Henri, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4782357" lon="-73.5890976076142"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Vinet</name>
+      <location>
+        <address>Parc Vinet, 550, Saint-Henri, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3J 2L5, Canada</address>
+        <coordinates lat="45.48377465" lon="-73.5758241232486"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Vinet</name>
+      <location>
+        <address>Parc Vinet, 550, Saint-Henri, Le Sud-Ouest, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H3J 2L5, Canada</address>
+        <coordinates lat="45.48377465" lon="-73.5758241232486"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Mercier - Hochelaga-Maisonneuve">
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Beauclerk</name>
+      <location>
+        <address>Parc Beauclerk, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5809801" lon="-73.52033457950478"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>De La Bruère</name>
+      <location>
+        <address>Parc de la Bruère, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.59418145" lon="-73.51969642138988"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Jean-Amyot</name>
+      <location>
+        <address>Parc Jean-Amyot, 6110, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1N 3N3, Canada</address>
+        <coordinates lat="45.57598515" lon="-73.53967056249633"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Jean-Amyot</name>
+      <location>
+        <address>Parc Jean-Amyot, 6110, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1N 3N3, Canada</address>
+        <coordinates lat="45.57598515" lon="-73.53967056249633"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Lalancette</name>
+      <location>
+        <address>Parc Lalancette, 2315, Hochelaga-Maisonneuve, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1W 3Y2, Canada</address>
+        <coordinates lat="45.54860175" lon="-73.54854594120306"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Lalancette</name>
+      <location>
+        <address>Parc Lalancette, 2315, Hochelaga-Maisonneuve, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1W 3Y2, Canada</address>
+        <coordinates lat="45.54860175" lon="-73.54854594120306"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire à bandes" code="TSR">
+      <name>Liébert</name>
+      <location>
+        <address>Parc Liébert, 2848, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1L 5R5, Canada</address>
+        <coordinates lat="45.59621895" lon="-73.52734262541355"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Pierre-Bernard</name>
+      <location>
+        <address>Parc Pierre-Bernard, 3170, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1L 4R4, Canada</address>
+        <coordinates lat="45.60517835" lon="-73.52597870381788"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Pierre-Bédard</name>
+      <location>
+        <address>Parc Pierre-Bédard, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5778785" lon="-73.55474631926137"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Pierre-Bédard</name>
+      <location>
+        <address>Parc Pierre-Bédard, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5778785" lon="-73.55474631926137"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Rougemont</name>
+      <location>
+        <address>Parc Rougemont, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.56937545" lon="-73.52762421479761"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Saint-Aloysius</name>
+      <location>
+        <address>Parc Saint-Aloysius, Hochelaga-Maisonneuve, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.545847699999996" lon="-73.54061580887952"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-Aloysius</name>
+      <location>
+        <address>Parc Saint-Aloysius, Hochelaga-Maisonneuve, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.545847699999996" lon="-73.54061580887952"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Saint-Victor</name>
+      <location>
+        <address>Parc Saint-Victor, 9175, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1L 0A2, Canada</address>
+        <coordinates lat="45.60755645" lon="-73.51771303270613"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-Victor</name>
+      <location>
+        <address>Parc Saint-Victor, 9175, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1L 0A2, Canada</address>
+        <coordinates lat="45.60755645" lon="-73.51771303270613"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Thomas-Chapais</name>
+      <location>
+        <address>Parc Thomas-Chapais, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.6080665" lon="-73.53668900786582"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Théodore</name>
+      <location>
+        <address>Parc Théodore, Hochelaga-Maisonneuve, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.56101905" lon="-73.54378922647564"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Montréal-Nord">
+    <rink type="Patinoire avec bandes" code="TSR">
+      <name>parc Charleroi</name>
+      <location>
+        <address>Parc Charleroi, 10985, Montréal-Nord, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1G 5B4, Canada</address>
+        <coordinates lat="45.5997627" lon="-73.62220538507137"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Charleroi</name>
+      <location>
+        <address>Parc Charleroi, 10985, Montréal-Nord, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1G 5B4, Canada</address>
+        <coordinates lat="45.5997627" lon="-73.62220538507137"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Lacordaire</name>
+      <location>
+        <address>Parc Lacordaire, Montréal-Nord, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.6162286" lon="-73.6321847445484"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes" code="TSR">
+      <name>parc Oscar</name>
+      <location>
+        <address>Parc Oscar, Parc Oscar Community Gardens, Montréal-Nord, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5821785" lon="-73.64841167026408"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes" code="TSR">
+      <name>parc Sauvé</name>
+      <location>
+        <address>Parc Sauvé, 11440, Montréal-Nord, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1H 3M6, Canada</address>
+        <coordinates lat="45.5994944" lon="-73.63612315578489"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de patin libre" code="OSR">
+      <name>parc Sauvé</name>
+      <location>
+        <address>Parc Sauvé, 11440, Montréal-Nord, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1H 3M6, Canada</address>
+        <coordinates lat="45.5994944" lon="-73.63612315578489"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire réfrigérée" code="TSR">
+      <name>Bleu Blanc Bouge Le Carignan</name>
+      <location>
+        <address>11481 Av. P M Favier, Montréal-Nord, QC H1G 3X9, Canada</address>
+        <coordinates lat="45.6099006" lon="-73.6158166"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Outremont">
+    <rink type="Grande patinoire de hockey" code="TSR">
+      <name>Parc Beaubien</name>
+      <location>
+        <address>Parc Beaubien, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5156836" lon="-73.60833488482808"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Petite patinoire de hockey" code="TSR">
+      <name>Parc Beaubien</name>
+      <location>
+        <address>Parc Beaubien, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5156836" lon="-73.60833488482808"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Parc Jacques-Parizeau</name>
+      <location>
+        <address>Parc Jacques-Parizeau, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.51145925" lon="-73.61761074844196"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de hockey" code="OSR">
+      <name>Parc Oakwood</name>
+      <location>
+        <address>Parc d'Oakwood, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5133082" lon="-73.60091863731968"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Parc Outremont</name>
+      <location>
+        <address>Parc Outremont, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.517986199999996" lon="-73.60467077191348"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de hockey et patin libre" code="OSR">
+      <name>Parc Pratt</name>
+      <location>
+        <address>Parc Pratt, Outremont, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5140899" lon="-73.6189052445211"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Pierrefonds - Roxboro">
+    <rink type="Patinoire de patin libre Sud" code="OSR">
+      <name>Parc Alexander</name>
+      <location>
+        <address>Parc Alexander, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4756175" lon="-73.85648092274812"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc Alexander</name>
+      <location>
+        <address>Parc Alexander, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4756175" lon="-73.85648092274812"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc Brook</name>
+      <location>
+        <address>Parc Brook, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.510165799999996" lon="-73.84258815962234"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de patin libre Est" code="OSR">
+      <name>Parc Brook</name>
+      <location>
+        <address>Parc Brook, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.510165799999996" lon="-73.84258815962234"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de patin libre Ouest" code="OSR">
+      <name>Parc Brook</name>
+      <location>
+        <address>Parc Brook, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.510165799999996" lon="-73.84258815962234"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bande" code="TSR">
+      <name>Parc Grier</name>
+      <location>
+        <address>Parc Grier, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.45746655" lon="-73.88406951733843"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Parc Grier</name>
+      <location>
+        <address>Parc Grier, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.45746655" lon="-73.88406951733843"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de patin libre sentier" code="OSR">
+      <name>Parc Grier</name>
+      <location>
+        <address>Parc Grier, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.45746655" lon="-73.88406951733843"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc d'À-Ma-Baie</name>
+      <location>
+        <address>Parc d'A-Ma-Baie, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.50478665" lon="-73.7826827213909"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Parc d'À-Ma-Baie</name>
+      <location>
+        <address>Parc d'A-Ma-Baie, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.50478665" lon="-73.7826827213909"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes Nord" code="TSR">
+      <name>Parc de Roxboro</name>
+      <location>
+        <address>Île de Roxboro, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.513451399999994" lon="-73.81982110509271"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes Sud" code="TSR">
+      <name>Parc de Roxboro</name>
+      <location>
+        <address>Île de Roxboro, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.513451399999994" lon="-73.81982110509271"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Parc de Roxboro</name>
+      <location>
+        <address>Île de Roxboro, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.513451399999994" lon="-73.81982110509271"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc de la Rive-Boisée</name>
+      <location>
+        <address>Parc de la Rive-Boisée, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.49873635" lon="-73.85264782916376"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Parc de la Rive-Boisée</name>
+      <location>
+        <address>Parc de la Rive-Boisée, Pierrefonds-Roxboro, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.49873635" lon="-73.85264782916376"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Rivière-des-Prairies - Pointe-aux-Trembles">
+    <rink type="Rink with open skate area" code="LR">
+      <name>Daniel-Johnson</name>
+      <location>
+        <address>Parc Daniel-Johnson, 1500, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1B 3A8, Canada</address>
+        <coordinates lat="45.65007605" lon="-73.50103123094476"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Des Cageux</name>
+      <location>
+        <address>Parc des Cageux, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1C 1B2, Canada</address>
+        <coordinates lat="45.673412400000004" lon="-73.54066083616793"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Des Cageux</name>
+      <location>
+        <address>Parc des Cageux, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1C 1B2, Canada</address>
+        <coordinates lat="45.673412400000004" lon="-73.54066083616793"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Don-Bosco</name>
+      <location>
+        <address>Parc Don-Bosco, 12600, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1E 3A9, Canada</address>
+        <coordinates lat="45.644191750000005" lon="-73.58859601296697"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Don-Bosco</name>
+      <location>
+        <address>Parc Don-Bosco, 12600, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1E 3A9, Canada</address>
+        <coordinates lat="45.644191750000005" lon="-73.58859601296697"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Gérard-Vaillancourt</name>
+      <location>
+        <address>Parc Urgel-Charbonneau, Montréal, QC H1A, Canada</address>
+        <coordinates lat="45.6668053" lon="-73.5019539"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Jeanne-Lapierre</name>
+      <location>
+        <address>Parc Jeanne-Lapierre, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.660928299999995" lon="-73.51563620211243"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="OSR">
+      <name>Montmartre</name>
+      <location>
+        <address>Parc Montmartre, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.6757709" lon="-73.49752337939724"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Parc Hans-Selye</name>
+      <location>
+        <address>Parc Hans-Selye, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.63194485" lon="-73.60351306176176"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Pehr-Kalm</name>
+      <location>
+        <address>Parc Pehr-Kalm, Rivière-des-Prairies, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.6645234" lon="-73.5527289839374"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Saint-Jean-Baptiste</name>
+      <location>
+        <address>Parc Saint-Jean-Baptiste, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.6406978" lon="-73.49933547508155"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Saint-Jean-Baptiste</name>
+      <location>
+        <address>Parc Saint-Jean-Baptiste, Pointe-aux-Trembles, Rivière-des-Prairies–Pointe-aux-Trembles, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.6406978" lon="-73.49933547508155"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Sainte-Maria-Goretti</name>
+      <location>
+        <address>16228 Terr. Sainte-Maria-Goretti, Montréal, QC H1A 1Y1, Canada</address>
+        <coordinates lat="45.6980556" lon="-73.4833333"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Y-Thériault/Sherbrooke</name>
+      <location>
+        <address>R. Sherbrooke E, Montréal, QC, Canada</address>
+        <coordinates lat="45.6565594" lon="-73.5093931"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Rosemont - La Petite-Patrie">
+    <rink type="Rink with boards" code="TSR">
+      <name>Beaubien</name>
+      <location>
+        <address>Parc Beaubien, 6633, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Y 2X7, Canada</address>
+        <coordinates lat="45.5535491" lon="-73.59001346771106"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Beaubien</name>
+      <location>
+        <address>Parc Beaubien, 6633, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Y 2X7, Canada</address>
+        <coordinates lat="45.5535491" lon="-73.59001346771106"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Cité-Jardin</name>
+      <location>
+        <address>Parc Cité-Jardin, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.57084805" lon="-73.56118270464079"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Cité-Jardin</name>
+      <location>
+        <address>Parc Cité-Jardin, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.57084805" lon="-73.56118270464079"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>De Gaspé</name>
+      <location>
+        <address>Parc De Gaspé, 6655, La Petite-Patrie, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2S 2Y1, Canada</address>
+        <coordinates lat="45.53325255" lon="-73.60907435688765"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>De la Louisiane</name>
+      <location>
+        <address>Parc de la Louisiane, 4644, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1T 1T7, Canada</address>
+        <coordinates lat="45.568277300000005" lon="-73.5723473729494"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>De la Louisiane</name>
+      <location>
+        <address>Parc de la Louisiane, 4644, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1T 1T7, Canada</address>
+        <coordinates lat="45.568277300000005" lon="-73.5723473729494"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>De la Petite-Italie</name>
+      <location>
+        <address>Parc de la Petite-Italie, 6634, La Petite-Patrie, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2S 3C6, Canada</address>
+        <coordinates lat="45.531361450000006" lon="-73.61192537231383"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Du Pélican</name>
+      <location>
+        <address>Parc du Pélican, 2590, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Y 1V9, Canada</address>
+        <coordinates lat="45.54347565" lon="-73.57350324836142"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Du Pélican</name>
+      <location>
+        <address>Parc du Pélican, 2590, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Y 1V9, Canada</address>
+        <coordinates lat="45.54347565" lon="-73.57350324836142"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Joseph-Paré</name>
+      <location>
+        <address>Parc Joseph-Paré, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.57545445" lon="-73.57204878709788"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Lafond</name>
+      <location>
+        <address>Parc Lafond, 3500, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1X 3E9, Canada</address>
+        <coordinates lat="45.5521614" lon="-73.568189415957"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Lafond</name>
+      <location>
+        <address>Parc Lafond, 3500, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1X 3E9, Canada</address>
+        <coordinates lat="45.5521614" lon="-73.568189415957"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Maisonneuve</name>
+      <location>
+        <address>Parc Maisonneuve, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.565127849999996" lon="-73.56222885505811"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Molson</name>
+      <location>
+        <address>Parc Molson, 2473, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Y 1G2, Canada</address>
+        <coordinates lat="45.5493874" lon="-73.59243704828128"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Père-Marquette</name>
+      <location>
+        <address>Parc du Père-Marquette, 1602, La Petite-Patrie, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2G 1N9, Canada</address>
+        <coordinates lat="45.53946975" lon="-73.59323084662091"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Père-Marquette</name>
+      <location>
+        <address>Parc du Père-Marquette, 1602, La Petite-Patrie, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2G 1N9, Canada</address>
+        <coordinates lat="45.53946975" lon="-73.59323084662091"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Sainte-Bernadette</name>
+      <location>
+        <address>Parc Sainte-Bernadette, 6825, Rosemont, Rosemont–La Petite-Patrie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1X 2T5, Canada</address>
+        <coordinates lat="45.56132875" lon="-73.58804768088117"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Saint-Laurent">
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Beaudet</name>
+      <location>
+        <address>Parc Beaudet, Vieux Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.50964895" lon="-73.67643466311125"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Beaulac</name>
+      <location>
+        <address>Parc Beaulac, Vieux Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5197125" lon="-73.67743821006421"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Beaulac</name>
+      <location>
+        <address>Parc Beaulac, Vieux Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5197125" lon="-73.67743821006421"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Chamberland</name>
+      <location>
+        <address>Parc Chamberland, 800, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4M 2P9, Canada</address>
+        <coordinates lat="45.5028182" lon="-73.68937847208853"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Chamberland</name>
+      <location>
+        <address>Parc Chamberland, 800, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4M 2P9, Canada</address>
+        <coordinates lat="45.5028182" lon="-73.68937847208853"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Cousineau</name>
+      <location>
+        <address>Parc Cousineau, 1740, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 3W5, Canada</address>
+        <coordinates lat="45.52118335" lon="-73.69058274236349"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rond de glace" code="LR">
+      <name>Parc Cousineau</name>
+      <location>
+        <address>Parc Cousineau, 1740, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 3W5, Canada</address>
+        <coordinates lat="45.52118335" lon="-73.69058274236349"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire sport d'équipe" code="TSR">
+      <name>Parc Decelle</name>
+      <location>
+        <address>Decelles Park, 845 Rue Roy, Saint-Laurent, QC H4L 3T6, Canada</address>
+        <coordinates lat="45.513918" lon="-73.67761519999999"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Decelles</name>
+      <location>
+        <address>Parc Decelles, 845, Vieux Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 3T6, Canada</address>
+        <coordinates lat="45.51398135" lon="-73.67776224290057"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Gohier</name>
+      <location>
+        <address>Parc Gohier, Vieux Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5080783" lon="-73.68139650211047"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Gohier</name>
+      <location>
+        <address>Parc Gohier, Vieux Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5080783" lon="-73.68139650211047"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Hartenstein</name>
+      <location>
+        <address>Parc Hartenstein, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.51818745" lon="-73.6912474034439"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Houde</name>
+      <location>
+        <address>Parc Houde, 378, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4M 1N9, Canada</address>
+        <coordinates lat="45.5009022" lon="-73.68084247108345"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Houde</name>
+      <location>
+        <address>Parc Houde, 378, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4M 1N9, Canada</address>
+        <coordinates lat="45.5009022" lon="-73.68084247108345"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Noël-Nord</name>
+      <location>
+        <address>Parc Noël-Nord, 2900, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4K 2V4, Canada</address>
+        <coordinates lat="45.5172922" lon="-73.72906718205358"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rond de glace" code="LR">
+      <name>Parc Noël-Nord</name>
+      <location>
+        <address>Parc Noël-Nord, 2900, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4K 2V4, Canada</address>
+        <coordinates lat="45.5172922" lon="-73.72906718205358"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Painter</name>
+      <location>
+        <address>Parc Painter, Chameran, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.52858465" lon="-73.67658843026805"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rond de glace" code="OSR">
+      <name>Parc Painter</name>
+      <location>
+        <address>Parc Painter, Chameran, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.52858465" lon="-73.67658843026805"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Parc Petit</name>
+      <location>
+        <address>Parc Petit, 1600, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 1J1, Canada</address>
+        <coordinates lat="45.520173400000004" lon="-73.69539915624708"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Petit</name>
+      <location>
+        <address>Parc Petit, 1600, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 1J1, Canada</address>
+        <coordinates lat="45.520173400000004" lon="-73.69539915624708"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="OSR">
+      <name>Parc Philippe-Laheurte</name>
+      <location>
+        <address>Parc Philippe-Laheurte, Nouveau Saint-Laurent, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.50395" lon="-73.71999078221265"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc Poirier</name>
+      <location>
+        <address>Parc Poirier, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5143812" lon="-73.66266849366954"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rond de glace" code="LR">
+      <name>Parc Saint-Laurent</name>
+      <location>
+        <address>Parc Saint-Laurent, 845, Chameran, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4L 1G4, Canada</address>
+        <coordinates lat="45.5270972" lon="-73.68799146529105"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire extérieure" code="TSR">
+      <name>Parc du Bois-Franc</name>
+      <location>
+        <address>Parc du Bois-Franc, Bois-Franc, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5161387" lon="-73.70830473802212"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rond de glace" code="OSR">
+      <name>Parc du Bois-Franc</name>
+      <location>
+        <address>Parc du Bois-Franc, Bois-Franc, Saint-Laurent, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5161387" lon="-73.70830473802212"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Saint-Léonard">
+    <rink type="Anneau de glace" code="OSR">
+      <name>C.C.S.L.</name>
+      <location>
+        <address>1118 Rue Sainte-Catherine, Montréal, QC H3B 1H5, Canada</address>
+        <coordinates lat="45.4996164" lon="-73.57310439999999"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire sans bande" code="OSR">
+      <name>C.S.S.L</name>
+      <location>
+        <address>3090 Av. de la Pépinière, Montréal, QC H1N 3N4, Canada</address>
+        <coordinates lat="45.5772374" lon="-73.5417293"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Delorme</name>
+      <location>
+        <address>Parc Delorme, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5911716" lon="-73.58898216756585"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Ferland</name>
+      <location>
+        <address>Parc Ferland, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.59643575" lon="-73.59803058780048"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Giuseppe-Garibaldi</name>
+      <location>
+        <address>Parc Giuseppe-Garibaldi, 7125, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1S 2X9, Canada</address>
+        <coordinates lat="45.5873019" lon="-73.57109532929319"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Ladauversière</name>
+      <location>
+        <address>Parc Ladauversière, 7560, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.581510300000005" lon="-73.58379187168508"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>parc Ladauversière</name>
+      <location>
+        <address>Parc Ladauversière, 7560, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.581510300000005" lon="-73.58379187168508"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Anneau de glace" code="OSR">
+      <name>parc Laurier-MacDonald</name>
+      <location>
+        <address>Parc-école Laurier-Macdonald, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.577632949999995" lon="-73.5877278805069"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire sans bande" code="OSR">
+      <name>parc Luigi-Pirandello</name>
+      <location>
+        <address>Parc Luigi-Pirandello, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5775451" lon="-73.60412230508075"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>parc Pie-XII</name>
+      <location>
+        <address>Parc Pie-XII, 5200, Saint-Léonard, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1R 0A9, Canada</address>
+        <coordinates lat="45.5884435" lon="-73.60775191134547"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Verdun">
+    <rink type="Patinoire décorative" code="LR">
+      <name>Natatorium</name>
+      <location>
+        <address>6500 Boul. LaSalle, Verdun, QC H4H 2S9, Canada</address>
+        <coordinates lat="45.4437535" lon="-73.5760564"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="TSR">
+      <name>Parc Duquette</name>
+      <location>
+        <address>Parc Duquette, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.466023199999995" lon="-73.5748545799477"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Parc Elgar</name>
+      <location>
+        <address>Parc Dan-Hanganu, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4576186" lon="-73.54804523052252"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire à bandes" code="TSR">
+      <name>Parc Elgar</name>
+      <location>
+        <address>Parc Dan-Hanganu, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.4576186" lon="-73.54804523052252"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire Bleu Blanc Bouge" code="TSR">
+      <name>Parc Willibrord</name>
+      <location>
+        <address>Parc Willibrord, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.459140000000005" lon="-73.57515229497857"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Parc Willibrord</name>
+      <location>
+        <address>Parc Willibrord, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.459140000000005" lon="-73.57515229497857"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Parc de la Fontaine</name>
+      <location>
+        <address>Parc de la Fontaine, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.46420335" lon="-73.54395210594748"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire à bandes" code="TSR">
+      <name>Parc de la Fontaine</name>
+      <location>
+        <address>Parc de la Fontaine, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.46420335" lon="-73.54395210594748"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Reine-Elisabeth</name>
+      <location>
+        <address>Parc de la Reine-Élisabeth, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4H 2N7, Canada</address>
+        <coordinates lat="45.4383647" lon="-73.59270344880633"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire à bandes" code="TSR">
+      <name>Reine-Elisabeth</name>
+      <location>
+        <address>Parc de la Reine-Élisabeth, Verdun, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H4H 2N7, Canada</address>
+        <coordinates lat="45.4383647" lon="-73.59270344880633"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Ville-Marie">
+    <rink type="Patinoire sans bandes" code="OSR">
+      <name>Des Faubourgs</name>
+      <location>
+        <address>Parc des Faubourgs, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.52689" lon="-73.55669846271012"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Des Vétérans</name>
+      <location>
+        <address>Parc des vétérans, Village gai, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.524698" lon="-73.55592328788063"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire réfrigérée" code="LR">
+      <name>Esplanade Tranquille</name>
+      <location>
+        <address>1442 Rue Clark, Montréal, QC H2X 2R3, Canada</address>
+        <coordinates lat="45.509607" lon="-73.5649782"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Excellent</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire réfrigérée" code="LR">
+      <name>Lac aux Castors ,</name>
+      <location>
+        <address>378 Av. Victoria, Westmount, QC H3Z 1C3, Canada</address>
+        <coordinates lat="45.4785112" lon="-73.60279779999999"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>Yes</sprayed>
+        <resurfaced>Yes</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire réfrigérée" code="LR">
+      <name>Square Cabot</name>
+      <location>
+        <address>Square Cabot, 2330, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.48946325" lon="-73.58358922310285"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Toussaint-Louverture</name>
+      <location>
+        <address>Parc Toussaint-Louverture, 127, Habitations Jeanne-Mance, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2X 1J6, Canada</address>
+        <coordinates lat="45.51253295" lon="-73.56467597531858"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>Toussaint-Louverture</name>
+      <location>
+        <address>Parc Toussaint-Louverture, 127, Habitations Jeanne-Mance, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2X 1J6, Canada</address>
+        <coordinates lat="45.51253295" lon="-73.56467597531858"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Walter-Stewart</name>
+      <location>
+        <address>Parc Walter-Stewart, 2455, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2K 1R3, Canada</address>
+        <coordinates lat="45.533109100000004" lon="-73.55638200925256"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Good</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Walter-Stewart</name>
+      <location>
+        <address>Parc Walter-Stewart, 2455, Ville-Marie, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2K 1R3, Canada</address>
+        <coordinates lat="45.533109100000004" lon="-73.55638200925256"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>Yes</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>Poor</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="LR">
+      <name>du Glacis</name>
+      <location>
+        <address>Parc du…, 5600 Bd Marie-Victorin, Brossard, QC J4S, Canada</address>
+        <coordinates lat="45.4771892" lon="-73.5029266"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+  </borough>
+  <borough name="Villeray-Saint-Michel - Parc-Extension">
+    <rink type="Patinoire réfrigérée" code="TSR">
+      <name>Bleu Blanc Bouge F-Perrault</name>
+      <location>
+        <address>7525 Rue François-Perrault, Montréal, QC H2A 1M1, Canada</address>
+        <coordinates lat="45.563089" lon="-73.6014368"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Champdoré</name>
+      <location>
+        <address>Parc Champdoré, 2400, Saint-Michel, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Z 1G2, Canada</address>
+        <coordinates lat="45.5685124" lon="-73.63571412725"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>De Normanville</name>
+      <location>
+        <address>Parc de Normanville, 7480, Villeray, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2R 2V3, Canada</address>
+        <coordinates lat="45.5456561" lon="-73.61566067822731"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire décorative" code="OSR">
+      <name>François-Perrault</name>
+      <location>
+        <address>Parc François-Perrault, Saint-Michel, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2A 3L6, Canada</address>
+        <coordinates lat="45.5623966" lon="-73.6005503555611"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire de patinage libre" code="OSR">
+      <name>Howard</name>
+      <location>
+        <address>Parc Howard, 8505, Parc-Extension, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.533844" lon="-73.64271981801012"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards - north" code="TSR">
+      <name>Jarry</name>
+      <location>
+        <address>Parc Jarry, 205, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2R 2V7, Canada</address>
+        <coordinates lat="45.5356151" lon="-73.62793481800234"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards - south" code="TSR">
+      <name>Jarry</name>
+      <location>
+        <address>Parc Jarry, 205, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2R 2V7, Canada</address>
+        <coordinates lat="45.5356151" lon="-73.62793481800234"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with boards" code="TSR">
+      <name>Nicolas-Tillemont</name>
+      <location>
+        <address>Parc Nicolas-Tillemont, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5549093" lon="-73.61217037457197"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="OSR">
+      <name>Nicolas-Tillemont</name>
+      <location>
+        <address>Parc Nicolas-Tillemont, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada</address>
+        <coordinates lat="45.5549093" lon="-73.61217037457197"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Rink with open skate area" code="LR">
+      <name>Ovila-Légaré</name>
+      <location>
+        <address>Ovila-Légaré, Saint-Michel, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1Z 1L6, Canada</address>
+        <coordinates lat="45.581242200000005" lon="-73.62350138774806"/>
+      </location>
+      <status>
+        <open>No</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes - Nord" code="TSR">
+      <name>Villeray</name>
+      <location>
+        <address>Parc Villeray, 8000, Villeray, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2R 2V6, Canada</address>
+        <coordinates lat="45.5478038" lon="-73.62169324295877"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+    <rink type="Patinoire avec bandes - Sud" code="TSR">
+      <name>Villeray</name>
+      <location>
+        <address>Parc Villeray, 8000, Villeray, Villeray–Saint-Michel–Parc-Extension, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2R 2V6, Canada</address>
+        <coordinates lat="45.5478038" lon="-73.62169324295877"/>
+      </location>
+      <status>
+        <open>Yes</open>
+        <cleared>No</cleared>
+        <sprayed>No</sprayed>
+        <resurfaced>No</resurfaced>
+        <condition>N/A</condition>
+      </status>
+    </rink>
+  </borough>
+</rinks>
